@@ -1,20 +1,25 @@
 {
   "files": {
     "main.css": "/Dadirri_Crystal/static/css/main.4eb0aa0f.chunk.css",
-    "main.js": "/Dadirri_Crystal/static/js/main.cc662950.chunk.js",
-    "main.js.map": "/Dadirri_Crystal/static/js/main.cc662950.chunk.js.map",
-    "runtime-main.js": "/Dadirri_Crystal/static/js/runtime-main.1094262b.js",
-    "runtime-main.js.map": "/Dadirri_Crystal/static/js/runtime-main.1094262b.js.map",
-    "static/js/2.31236739.chunk.js": "/Dadirri_Crystal/static/js/2.31236739.chunk.js",
-    "static/js/2.31236739.chunk.js.map": "/Dadirri_Crystal/static/js/2.31236739.chunk.js.map",
+    "main.js": "/Dadirri_Crystal/static/js/main.4ad3172e.chunk.js",
+    "main.js.map": "/Dadirri_Crystal/static/js/main.4ad3172e.chunk.js.map",
+    "runtime-main.js": "/Dadirri_Crystal/static/js/runtime-main.c5f42f60.js",
+    "runtime-main.js.map": "/Dadirri_Crystal/static/js/runtime-main.c5f42f60.js.map",
+    "static/js/2.3e852236.chunk.js": "/Dadirri_Crystal/static/js/2.3e852236.chunk.js",
+    "static/js/2.3e852236.chunk.js.map": "/Dadirri_Crystal/static/js/2.3e852236.chunk.js.map",
     "index.html": "/Dadirri_Crystal/index.html",
     "static/css/main.4eb0aa0f.chunk.css.map": "/Dadirri_Crystal/static/css/main.4eb0aa0f.chunk.css.map",
-    "static/js/2.31236739.chunk.js.LICENSE.txt": "/Dadirri_Crystal/static/js/2.31236739.chunk.js.LICENSE.txt"
+    "static/js/2.3e852236.chunk.js.LICENSE.txt": "/Dadirri_Crystal/static/js/2.3e852236.chunk.js.LICENSE.txt",
+    "static/media/backgroundimage.710bd0ae.jpg": "/Dadirri_Crystal/static/media/backgroundimage.710bd0ae.jpg",
+    "static/media/earrings.dcd4dd16.jpg": "/Dadirri_Crystal/static/media/earrings.dcd4dd16.jpg",
+    "static/media/necklace.9f117ca4.jpg": "/Dadirri_Crystal/static/media/necklace.9f117ca4.jpg",
+    "static/media/newDesigns.89b62292.jpg": "/Dadirri_Crystal/static/media/newDesigns.89b62292.jpg",
+    "static/media/rings.01903c65.jpg": "/Dadirri_Crystal/static/media/rings.01903c65.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1094262b.js",
-    "static/js/2.31236739.chunk.js",
+    "static/js/runtime-main.c5f42f60.js",
+    "static/js/2.3e852236.chunk.js",
     "static/css/main.4eb0aa0f.chunk.css",
-    "static/js/main.cc662950.chunk.js"
+    "static/js/main.4ad3172e.chunk.js"
   ]
 }
