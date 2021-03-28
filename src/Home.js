@@ -1,4 +1,10 @@
 import React, { Component } from "react";
+import newD from "./Images/newDesigns.jpg";
+import backgroundimage from "./Images/backgroundimage.jpg";
+import earrings from "./Images/earrings.jpg";
+import necklace from "./Images/necklace.jpg";
+import rings from "./Images/rings.jpg";
+
 import {
     NavLink,
     HashRouter
@@ -9,15 +15,15 @@ class Home extends Component {
     return (
     <HashRouter>
       <div> 
-<img className='background' src="/images/backgroundimage.jpg"alt=" "/>
+<img className='background' src={backgroundimage}alt=" "/>
 <div className="line2"></div>
 <h2>SHOP FOR</h2> 
 <button className="moreCategories" type="button">More Categories -------&gt; </button>
 <ul className="shopFor"> 
-<li><img className="menu"src="/images/newDesigns.jpg"alt=" "/><NavLink to="/New">New Designs</NavLink></li>
-<li><img className="menu" src="/images/earrings.jpg"alt=" "/><NavLink to="/Earrings">Earrings</NavLink></li>
-<li><img className="menu" src="/images/rings.jpg"alt=" "/><NavLink to="/Rings">Rings</NavLink></li>
-<li><img className="menu" src="/images/necklace.jpg"alt=" "/><NavLink to="/Necklace">Necklace</NavLink></li>
+<li><img className="menu"src={newD}alt=" "/><NavLink to="/New">New Designs</NavLink></li>
+<li><img className="menu" src={earrings}alt=" "/><NavLink to="/Earrings">Earrings</NavLink></li>
+<li><img className="menu" src={rings}alt=" "/><NavLink to="/Rings">Rings</NavLink></li>
+<li><img className="menu" src={necklace}alt=" "/><NavLink to="/Necklace">Necklace</NavLink></li>
 </ul>
 <div className="line3"></div>
 <div className="aboutus">
