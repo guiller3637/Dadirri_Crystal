@@ -1,25 +1,42 @@
 {
   "files": {
-    "main.css": "/Dadirri_Crystal/static/css/main.4eb0aa0f.chunk.css",
-    "main.js": "/Dadirri_Crystal/static/js/main.4ad3172e.chunk.js",
-    "main.js.map": "/Dadirri_Crystal/static/js/main.4ad3172e.chunk.js.map",
+    "main.css": "/Dadirri_Crystal/static/css/main.0a032811.chunk.css",
+    "main.js": "/Dadirri_Crystal/static/js/main.6190ca4a.chunk.js",
+    "main.js.map": "/Dadirri_Crystal/static/js/main.6190ca4a.chunk.js.map",
     "runtime-main.js": "/Dadirri_Crystal/static/js/runtime-main.c5f42f60.js",
     "runtime-main.js.map": "/Dadirri_Crystal/static/js/runtime-main.c5f42f60.js.map",
-    "static/js/2.3e852236.chunk.js": "/Dadirri_Crystal/static/js/2.3e852236.chunk.js",
-    "static/js/2.3e852236.chunk.js.map": "/Dadirri_Crystal/static/js/2.3e852236.chunk.js.map",
+    "static/js/2.3e12b6e4.chunk.js": "/Dadirri_Crystal/static/js/2.3e12b6e4.chunk.js",
+    "static/js/2.3e12b6e4.chunk.js.map": "/Dadirri_Crystal/static/js/2.3e12b6e4.chunk.js.map",
     "index.html": "/Dadirri_Crystal/index.html",
-    "static/css/main.4eb0aa0f.chunk.css.map": "/Dadirri_Crystal/static/css/main.4eb0aa0f.chunk.css.map",
-    "static/js/2.3e852236.chunk.js.LICENSE.txt": "/Dadirri_Crystal/static/js/2.3e852236.chunk.js.LICENSE.txt",
+    "static/css/main.0a032811.chunk.css.map": "/Dadirri_Crystal/static/css/main.0a032811.chunk.css.map",
+    "static/js/2.3e12b6e4.chunk.js.LICENSE.txt": "/Dadirri_Crystal/static/js/2.3e12b6e4.chunk.js.LICENSE.txt",
+    "static/media/DisscountsBanner.f98443ca.jpg": "/Dadirri_Crystal/static/media/DisscountsBanner.f98443ca.jpg",
+    "static/media/Earring-gold.49130877.jpg": "/Dadirri_Crystal/static/media/Earring-gold.49130877.jpg",
+    "static/media/Earring-silver.d7639e1f.jpg": "/Dadirri_Crystal/static/media/Earring-silver.d7639e1f.jpg",
+    "static/media/Prosperry-candle.2fb7ce7e.jpg": "/Dadirri_Crystal/static/media/Prosperry-candle.2fb7ce7e.jpg",
+    "static/media/Rose-quartz.3c10e907.jpg": "/Dadirri_Crystal/static/media/Rose-quartz.3c10e907.jpg",
+    "static/media/Strawberry.dc261107.jpg": "/Dadirri_Crystal/static/media/Strawberry.dc261107.jpg",
+    "static/media/amenthys-rose.cebb4b61.jpg": "/Dadirri_Crystal/static/media/amenthys-rose.cebb4b61.jpg",
     "static/media/backgroundimage.710bd0ae.jpg": "/Dadirri_Crystal/static/media/backgroundimage.710bd0ae.jpg",
+    "static/media/circle.4de65b9e.jpg": "/Dadirri_Crystal/static/media/circle.4de65b9e.jpg",
     "static/media/earrings.dcd4dd16.jpg": "/Dadirri_Crystal/static/media/earrings.dcd4dd16.jpg",
+    "static/media/healing-crystals.c625177a.jpg": "/Dadirri_Crystal/static/media/healing-crystals.c625177a.jpg",
+    "static/media/joyCandle.536fd6c7.jpg": "/Dadirri_Crystal/static/media/joyCandle.536fd6c7.jpg",
+    "static/media/moonLove.2748981c.jpg": "/Dadirri_Crystal/static/media/moonLove.2748981c.jpg",
+    "static/media/moonstone.a64b978f.jpg": "/Dadirri_Crystal/static/media/moonstone.a64b978f.jpg",
     "static/media/necklace.9f117ca4.jpg": "/Dadirri_Crystal/static/media/necklace.9f117ca4.jpg",
     "static/media/newDesigns.89b62292.jpg": "/Dadirri_Crystal/static/media/newDesigns.89b62292.jpg",
-    "static/media/rings.01903c65.jpg": "/Dadirri_Crystal/static/media/rings.01903c65.jpg"
+    "static/media/peaceCandle.29f7df11.jpg": "/Dadirri_Crystal/static/media/peaceCandle.29f7df11.jpg",
+    "static/media/ringDesigns.297bbc5b.jpg": "/Dadirri_Crystal/static/media/ringDesigns.297bbc5b.jpg",
+    "static/media/rings.01903c65.jpg": "/Dadirri_Crystal/static/media/rings.01903c65.jpg",
+    "static/media/self-Love.743e1d42.jpg": "/Dadirri_Crystal/static/media/self-Love.743e1d42.jpg",
+    "static/media/spiralEarring.4bfdd3f3.jpg": "/Dadirri_Crystal/static/media/spiralEarring.4bfdd3f3.jpg",
+    "static/media/zoodiact.29c90e1c.jpg": "/Dadirri_Crystal/static/media/zoodiact.29c90e1c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c5f42f60.js",
-    "static/js/2.3e852236.chunk.js",
-    "static/css/main.4eb0aa0f.chunk.css",
-    "static/js/main.4ad3172e.chunk.js"
+    "static/js/2.3e12b6e4.chunk.js",
+    "static/css/main.0a032811.chunk.css",
+    "static/js/main.6190ca4a.chunk.js"
   ]
 }
