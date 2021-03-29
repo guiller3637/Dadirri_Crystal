@@ -2,6 +2,7 @@ body {
   background-color:#F5F5F5;
   padding: 0px;
   margin: 0;
+  max-width: 100%;
 
   }
   h1, h2, p, ul, li {
@@ -20,11 +21,13 @@ body {
       margin-top: 80px;
       margin-left: 50px;
     }
+
     ul.header li{
     display: inline-flex;
     list-style-type: none;
     margin: 0;
     }
+
     h1 { 
       color:black;
       font-size: 3em;
@@ -32,6 +35,12 @@ body {
       margin-left: 150px;
       border-left: 3px solid black;
       padding-left: 10px;
+      text-decoration: none;
+  
+    }
+    a{
+      text-decoration: none;
+      color: black;
     }
     img{
       position: relative;

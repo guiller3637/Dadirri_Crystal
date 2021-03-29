@@ -11,6 +11,7 @@ import {
   import Necklace from "./Necklace";
   import Anklets from "./Anklets.js";
   import icon from "./Images/Iconlogo.jpg";
+  import "./index.css";
  
 class Main extends Component {
   render() {
@@ -21,7 +22,7 @@ class Main extends Component {
           <button className="register" type="button">Sign in</button>
           <button className="register" type="button">Register</button>
           <img src= {icon} alt=" "/>
-          <h1>Dadirri Crystal<input type="text" id="search" placeholder="Search..." /></h1>
+          <h1><a href= "Home.js">Dadirri Crystal</a><input type="text" id="search" placeholder="Search..." /></h1>
             <li><NavLink exact to="/">Home</NavLink></li>
             <li><NavLink to="/Earrings">Earrings</NavLink></li>
             <li><NavLink to="/Rings">Rings</NavLink></li>

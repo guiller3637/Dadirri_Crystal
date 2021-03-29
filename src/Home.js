@@ -4,6 +4,7 @@ import backgroundimage from "./Images/backgroundimage.jpg";
 import earrings from "./Images/earrings.jpg";
 import necklace from "./Images/necklace.jpg";
 import rings from "./Images/rings.jpg";
+import "./index.css";
 
 import {
     NavLink,
@@ -19,8 +20,9 @@ class Home extends Component {
 <div className="line2"></div>
 <h2>SHOP FOR</h2> 
 <button className="moreCategories" type="button">More Categories -------&gt; </button>
+
 <ul className="shopFor"> 
-<li><img className="menu"src={newD}alt=" "/><NavLink to="/New">New Designs</NavLink></li>
+<li><img className="menu"src={newD}alt=" "/><NavLink to="/Sales">Sales</NavLink></li>
 <li><img className="menu" src={earrings}alt=" "/><NavLink to="/Earrings">Earrings</NavLink></li>
 <li><img className="menu" src={rings}alt=" "/><NavLink to="/Rings">Rings</NavLink></li>
 <li><img className="menu" src={necklace}alt=" "/><NavLink to="/Necklace">Necklace</NavLink></li>

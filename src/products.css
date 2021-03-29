@@ -1,0 +1,113 @@
+
+.contentEarrings{
+    background-color: #daade2;
+}
+.banner{
+    position: relative;
+    top: 0%;
+    left:200px;
+    max-width:100%;
+    height: 300px;
+    }
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4em;
+    position: relative;
+    left: 35%;
+}
+
+p3{
+    font-size: 1.3em;
+    text-align: center;
+    position: relative;
+    left:23%;
+    color: white;
+    border-bottom:2px solid #daade2;
+
+}
+
+ul.earringProducts{
+    margin: 0;
+    padding: 0;
+}
+
+ul.earringProducts li {
+    display: inline-block;
+    background-color: #ae8db4;
+    width: 400px;
+    height: 500px;
+    margin:20px;
+    position: relative;
+    left: 3.5%;
+    margin-top: 35px;
+    text-align: center; 
+
+    transition: all .3s ease-in-out;
+
+
+} ul.earringProducts li a {
+    font-size: 1.5em;
+    font-family: serif Roboto;
+    font-style: normal;
+    font-weight: 500;
+    text-decoration: none;
+    margin:0 auto;
+    position: relative;
+    top: 15px;
+    color: white;
+    
+}
+ul.earringProducts li img.product{
+    display: inline-block;
+  width: 400px;
+  height: 320px;
+  position: relative;
+  left: auto;
+  top: 0px;
+  }
+
+
+  ul.descriptionProduct{
+      padding: 0%;
+      width: auto;
+      height: 130px;
+  }
+  ul.descriptionProduct li {
+    margin: 0 auto;
+    padding: auto;
+    width: auto;
+    height: auto;
+
+}
+ul.descriptionProduct li.button{
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    top: 60%;
+    left:-15%;
+    border: 2px solid white;
+    width: 200px;
+    height:30px;
+}
+ul.descriptionProduct li button.addCart{
+    margin:0 auto;
+    position: relative;
+    bottom:70%;
+    left: -25px;
+    color: white;
+  
+}
+ul.descriptionProduct li img.bag{
+    height: 40px;
+    width: 50px;
+    position: relative;
+    top: -20%;
+    left:100%;
+}
+
+
+ul.descriptionProduct li.button:Hover {
+   background-color: #daade2;
+    border: 2px solid white;
+}
