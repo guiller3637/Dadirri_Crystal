@@ -44,7 +44,7 @@ class Home extends Component {
 </div>
 <div className="footer">
 <div className="line3"></div>
-<ul className="resources">
+<ul className="resourcesh">
 <li>Quick Links</li>
 <li>Stone Meaning</li>
 <li>Purifying Crystals</li>

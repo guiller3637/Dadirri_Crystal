@@ -31,7 +31,9 @@ ul.earringProducts{
     margin: 0;
     padding: 0;
 }
-
+li{
+    border-radius: 30px;
+}
 ul.earringProducts li {
     display: inline-block;
     background-color: #ae8db4;
@@ -42,8 +44,8 @@ ul.earringProducts li {
     left: 3.5%;
     margin-top: 35px;
     text-align: center; 
-
     transition: all .3s ease-in-out;
+
 
 
 } ul.earringProducts li a {
@@ -65,13 +67,15 @@ ul.earringProducts li img.product{
   position: relative;
   left: auto;
   top: 0px;
-  }
+  border-top-left-radius:30px;
+border-top-right-radius:30px; }
 
 
   ul.descriptionProduct{
       padding: 0%;
       width: auto;
       height: 130px;
+
   }
   ul.descriptionProduct li {
     margin: 0 auto;

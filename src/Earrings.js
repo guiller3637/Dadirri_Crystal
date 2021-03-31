@@ -33,7 +33,7 @@ class Earrings extends Component {
       </li>
         <li><img className="product"src={earringSpiral}alt=" "/><a>Spiral Earings</a>
         <ul className="descriptionProduct">
-        <p3>  $65.50   </p3>
+        <p3>  $65.00   </p3>
            <li className="button"><img className="bag"src={bag}alt=" "/>
            <button className="addCart" type="button">ADD CART</button>
            </li>
@@ -41,7 +41,7 @@ class Earrings extends Component {
       </li>
         <li><img className="product"src={earringMoon}alt=" "/><a>Moon Love</a>
         <ul className="descriptionProduct">
-        <p3>  $49.99   </p3>
+        <p3>  $95.00   </p3>
            <li className="button"><img className="bag"src={bag}alt=" "/>
            <button className="addCart" type="button">ADD CART</button>
            </li>
