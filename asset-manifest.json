@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Dadirri_Crystal/static/css/main.0a032811.chunk.css",
-    "main.js": "/Dadirri_Crystal/static/js/main.6190ca4a.chunk.js",
-    "main.js.map": "/Dadirri_Crystal/static/js/main.6190ca4a.chunk.js.map",
+    "main.css": "/Dadirri_Crystal/static/css/main.ba6bbb98.chunk.css",
+    "main.js": "/Dadirri_Crystal/static/js/main.54b0cb71.chunk.js",
+    "main.js.map": "/Dadirri_Crystal/static/js/main.54b0cb71.chunk.js.map",
     "runtime-main.js": "/Dadirri_Crystal/static/js/runtime-main.c5f42f60.js",
     "runtime-main.js.map": "/Dadirri_Crystal/static/js/runtime-main.c5f42f60.js.map",
     "static/js/2.3e12b6e4.chunk.js": "/Dadirri_Crystal/static/js/2.3e12b6e4.chunk.js",
     "static/js/2.3e12b6e4.chunk.js.map": "/Dadirri_Crystal/static/js/2.3e12b6e4.chunk.js.map",
     "index.html": "/Dadirri_Crystal/index.html",
-    "static/css/main.0a032811.chunk.css.map": "/Dadirri_Crystal/static/css/main.0a032811.chunk.css.map",
+    "static/css/main.ba6bbb98.chunk.css.map": "/Dadirri_Crystal/static/css/main.ba6bbb98.chunk.css.map",
     "static/js/2.3e12b6e4.chunk.js.LICENSE.txt": "/Dadirri_Crystal/static/js/2.3e12b6e4.chunk.js.LICENSE.txt",
     "static/media/DisscountsBanner.f98443ca.jpg": "/Dadirri_Crystal/static/media/DisscountsBanner.f98443ca.jpg",
     "static/media/Earring-gold.49130877.jpg": "/Dadirri_Crystal/static/media/Earring-gold.49130877.jpg",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.c5f42f60.js",
     "static/js/2.3e12b6e4.chunk.js",
-    "static/css/main.0a032811.chunk.css",
-    "static/js/main.6190ca4a.chunk.js"
+    "static/css/main.ba6bbb98.chunk.css",
+    "static/js/main.54b0cb71.chunk.js"
   ]
 }
